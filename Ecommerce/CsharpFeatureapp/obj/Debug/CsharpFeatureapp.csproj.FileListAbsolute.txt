@@ -1,0 +1,10 @@
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\bin\Debug\CsharpFeatureapp.exe.config
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\bin\Debug\CsharpFeatureapp.exe
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\bin\Debug\CsharpFeatureapp.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\obj\Debug\CsharpFeatureapp.csproj.AssemblyReference.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\obj\Debug\CsharpFeatureapp.csproj.CoreCompileInputs.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\obj\Debug\CsharpFeatureapp.exe
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\obj\Debug\CsharpFeatureapp.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\bin\Debug\ClassLibrary1.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\bin\Debug\ClassLibrary1.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\CsharpFeatureapp\obj\Debug\CsharpFe.030573F4.Up2Date

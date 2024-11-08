@@ -1,0 +1,14 @@
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.AssemblyReference.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.csproj.CoreCompileInputs.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.exe.config
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.exe
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\EcommerceTest.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\CRM.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\CRM.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\obj\Debug\Ecommerc.A4D575A9.Up2Date
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.exe
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\obj\Debug\EcommerceTest.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\Catalog.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\Catalog.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\OrderProcessing.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\EcommerceTest\bin\Debug\OrderProcessing.pdb

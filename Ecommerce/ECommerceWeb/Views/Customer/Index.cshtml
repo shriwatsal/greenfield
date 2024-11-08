@@ -1,0 +1,16 @@
+﻿
+@{
+    ViewBag.Title = "CustView";
+}
+
+<h2>CustView</h2>
+
+@{
+
+    foreach (ECommerceWeb.Models.Customer c in @Model)
+    {
+        <p>@c.FirstName   @c.LastName</p>
+
+
+    }
+}a

@@ -1,0 +1,6 @@
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\OrderProcessing\bin\Debug\OrderProcessing.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\OrderProcessing\bin\Debug\OrderProcessing.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.csproj.AssemblyReference.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.csproj.CoreCompileInputs.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\OrderProcessing\obj\Debug\OrderProcessing.pdb

@@ -1,0 +1,836 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB9A006-8905-45E7-AD5D-E745F7966E07}|Services\\Services.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB9A006-8905-45E7-AD5D-E745F7966E07}|Services\\Services.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14BF163-36D2-4883-8DA7-3647076BD97C}|SerializationTestApp\\SerializationTestApp.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\serializationtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14BF163-36D2-4883-8DA7-3647076BD97C}|SerializationTestApp\\SerializationTestApp.csproj|solutionrelative:serializationtestapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ABB9A006-8905-45E7-AD5D-E745F7966E07}|Services\\Services.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ABB9A006-8905-45E7-AD5D-E745F7966E07}|Services\\Services.csproj|solutionrelative:services\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3524786E-27EE-4ABF-9C1B-BE6DD8168DDE}|POCOLib\\POCOLib.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3524786E-27EE-4ABF-9C1B-BE6DD8168DDE}|POCOLib\\POCOLib.csproj|solutionrelative:pocolib\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B2F6CF0-15E2-47EF-A070-BFBE42D46FCB}|BinaryDataRepositoryLib\\BinaryDataRepositoryLib.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\binarydatarepositorylib\\binaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B2F6CF0-15E2-47EF-A070-BFBE42D46FCB}|BinaryDataRepositoryLib\\BinaryDataRepositoryLib.csproj|solutionrelative:binarydatarepositorylib\\binaryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E347FF-E970-445A-B321-91958932566F}|Specification\\Specification.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E347FF-E970-445A-B321-91958932566F}|Specification\\Specification.csproj|solutionrelative:specification\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E3E347FF-E970-445A-B321-91958932566F}|Specification\\Specification.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\specification\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3E347FF-E970-445A-B321-91958932566F}|Specification\\Specification.csproj|solutionrelative:specification\\idatarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\csharpfeatureapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|solutionrelative:csharpfeatureapp\\account.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\csharpfeatureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|solutionrelative:csharpfeatureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27C0B021-E775-4508-B69A-C70C592EE117}|Bankings\\Bankings.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\bankings\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27C0B021-E775-4508-B69A-C70C592EE117}|Bankings\\Bankings.csproj|solutionrelative:bankings\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98B3C3E9-12E9-4C83-BA65-14C67C9E07A6}|Delegation\\Delegation.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\delegation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98B3C3E9-12E9-4C83-BA65-14C67C9E07A6}|Delegation\\Delegation.csproj|solutionrelative:delegation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83256C8E-4E87-46ED-B5B8-CECE352892A8}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83256C8E-4E87-46ED-B5B8-CECE352892A8}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F0240B0-2758-4286-8E34-7E5624E2C3B1}|Taxation\\Taxation.csproj|c:\\users\\shriwatsal.patil\\source\\repos\\ecommerce\\taxation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F0240B0-2758-4286-8E34-7E5624E2C3B1}|Taxation\\Taxation.csproj|solutionrelative:taxation\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\csharpfeatureapp\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|solutionrelative:csharpfeatureapp\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\csharpfeatureapp\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|solutionrelative:csharpfeatureapp\\hr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Penalty\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Penalty\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\csharpfeatureapp\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|solutionrelative:csharpfeatureapp\\complex.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\csharpfeatureapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|solutionrelative:csharpfeatureapp\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\csharpfeatureapp\\mathengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12871FE0-E738-4D4E-9A90-7A9C2C997C0C}|CsharpFeatureapp\\CsharpFeatureapp.csproj|solutionrelative:csharpfeatureapp\\mathengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DFD51E-C3A3-4E9A-B28B-86A6ACB0CCEC}|Membership\\Membership.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\membership\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DFD51E-C3A3-4E9A-B28B-86A6ACB0CCEC}|Membership\\Membership.csproj|solutionrelative:membership\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DFD51E-C3A3-4E9A-B28B-86A6ACB0CCEC}|Membership\\Membership.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\membership\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DFD51E-C3A3-4E9A-B28B-86A6ACB0CCEC}|Membership\\Membership.csproj|solutionrelative:membership\\credential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DFD51E-C3A3-4E9A-B28B-86A6ACB0CCEC}|Membership\\Membership.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\membership\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DFD51E-C3A3-4E9A-B28B-86A6ACB0CCEC}|Membership\\Membership.csproj|solutionrelative:membership\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6DFD51E-C3A3-4E9A-B28B-86A6ACB0CCEC}|Membership\\Membership.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\membership\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6DFD51E-C3A3-4E9A-B28B-86A6ACB0CCEC}|Membership\\Membership.csproj|solutionrelative:membership\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29D809-5CD3-4FBE-9AE9-4F3C0E339328}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\shoppingcart\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29D809-5CD3-4FBE-9AE9-4F3C0E339328}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29D809-5CD3-4FBE-9AE9-4F3C0E339328}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\shoppingcart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29D809-5CD3-4FBE-9AE9-4F3C0E339328}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\shoppingcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29D809-5CD3-4FBE-9AE9-4F3C0E339328}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\shoppingcart\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29D809-5CD3-4FBE-9AE9-4F3C0E339328}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\ishoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC29D809-5CD3-4FBE-9AE9-4F3C0E339328}|ShoppingCart\\ShoppingCart.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\shoppingcart\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC29D809-5CD3-4FBE-9AE9-4F3C0E339328}|ShoppingCart\\ShoppingCart.csproj|solutionrelative:shoppingcart\\shoppingcartservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\shoppingcartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\products\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\products\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\products\\insert.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\shoppingcart\\removefromcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\shoppingcart\\removefromcart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\shoppingcart\\addtocart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\shoppingcart\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\auth\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\auth\\resetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\auth\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\auth\\forgetpassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\auth\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\auth\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\products\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\products\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\products\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ecommerceweb\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AA2F32B4-2588-4F3F-8156-98983EE20779}|ECommerceWeb\\ECommerceWeb.csproj|solutionrelative:ecommerceweb\\views\\customer\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Banking\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Banking\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\SerializationTestApp\\Program.cs",
+              "RelativeDocumentMoniker": "SerializationTestApp\\Program.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\SerializationTestApp\\Program.cs",
+              "RelativeToolTip": "SerializationTestApp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:58:24.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAQAAAAgAAAAAEAlwB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:02:30.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "iProductService.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Specification\\iProductService.cs",
+              "RelativeDocumentMoniker": "Specification\\iProductService.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Specification\\iProductService.cs",
+              "RelativeToolTip": "Specification\\iProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T10:02:14.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Services\\Class1.cs",
+              "RelativeDocumentMoniker": "Services\\Class1.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Services\\Class1.cs",
+              "RelativeToolTip": "Services\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:50:13.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BinaryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\BinaryDataRepositoryLib\\BinaryRepository.cs",
+              "RelativeDocumentMoniker": "BinaryDataRepositoryLib\\BinaryRepository.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\BinaryDataRepositoryLib\\BinaryRepository.cs",
+              "RelativeToolTip": "BinaryDataRepositoryLib\\BinaryRepository.cs",
+              "ViewState": "AQIAABIAAADgzMzMzEwnwCEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:33:06.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\POCOLib\\Product.cs",
+              "RelativeDocumentMoniker": "POCOLib\\Product.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\POCOLib\\Product.cs",
+              "RelativeToolTip": "POCOLib\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:27:23.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IDataRepository.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Specification\\IDataRepository.cs",
+              "RelativeDocumentMoniker": "Specification\\IDataRepository.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Specification\\IDataRepository.cs",
+              "RelativeToolTip": "Specification\\IDataRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T09:21:45.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Penalty\\Class1.cs",
+              "RelativeDocumentMoniker": "Penalty\\Class1.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Penalty\\Class1.cs",
+              "RelativeToolTip": "Penalty\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:42:34.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Taxation\\Class1.cs",
+              "RelativeDocumentMoniker": "Taxation\\Class1.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Taxation\\Class1.cs",
+              "RelativeToolTip": "Taxation\\Class1.cs",
+              "ViewState": "AQIAAAoAAACAAAAAAAAAwBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:57:57.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Account.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Account.cs",
+              "RelativeDocumentMoniker": "CsharpFeatureapp\\Account.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Account.cs",
+              "RelativeToolTip": "CsharpFeatureapp\\Account.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T09:01:15.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Delegation\\Class1.cs",
+              "RelativeDocumentMoniker": "Delegation\\Class1.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Delegation\\Class1.cs",
+              "RelativeToolTip": "Delegation\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T04:59:56.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Bankings\\Class1.cs",
+              "RelativeDocumentMoniker": "Bankings\\Class1.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Bankings\\Class1.cs",
+              "RelativeToolTip": "Bankings\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:05:08.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAANDMzMzPbvwYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T05:01:30.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Handler.cs",
+              "RelativeDocumentMoniker": "CsharpFeatureapp\\Handler.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Handler.cs",
+              "RelativeToolTip": "CsharpFeatureapp\\Handler.cs",
+              "ViewState": "AQIAAAEAAADAAAAAAAARwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T06:59:51.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Complex.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Complex.cs",
+              "RelativeDocumentMoniker": "CsharpFeatureapp\\Complex.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Complex.cs",
+              "RelativeToolTip": "CsharpFeatureapp\\Complex.cs",
+              "ViewState": "AQIAAA8AAADAMzMzM7MmwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:17:59.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Program.cs",
+              "RelativeDocumentMoniker": "CsharpFeatureapp\\Program.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Program.cs",
+              "RelativeToolTip": "CsharpFeatureapp\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:17:31.81Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HR.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\HR.cs",
+              "RelativeDocumentMoniker": "CsharpFeatureapp\\HR.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\HR.cs",
+              "RelativeToolTip": "CsharpFeatureapp\\HR.cs",
+              "ViewState": "AQIAABAAAADgZmZmZgYywCQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:13:16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Banking\\Class1.cs",
+              "RelativeDocumentMoniker": "Banking\\Class1.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Banking\\Class1.cs",
+              "RelativeToolTip": "Banking\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T10:41:58.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Mathengine.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Mathengine.cs",
+              "RelativeDocumentMoniker": "CsharpFeatureapp\\Mathengine.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Mathengine.cs",
+              "RelativeToolTip": "CsharpFeatureapp\\Mathengine.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAiwC0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:15:51.563Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Person.cs",
+              "RelativeDocumentMoniker": "CsharpFeatureapp\\Person.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\CsharpFeatureapp\\Person.cs",
+              "RelativeToolTip": "CsharpFeatureapp\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T05:15:19.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "iAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Membership\\iAuthService.cs",
+              "RelativeDocumentMoniker": "Membership\\iAuthService.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Membership\\iAuthService.cs",
+              "RelativeToolTip": "Membership\\iAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:36:41.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Membership\\AuthService.cs",
+              "RelativeDocumentMoniker": "Membership\\AuthService.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Membership\\AuthService.cs",
+              "RelativeToolTip": "Membership\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:35:46.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Credential.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Membership\\Credential.cs",
+              "RelativeDocumentMoniker": "Membership\\Credential.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Membership\\Credential.cs",
+              "RelativeToolTip": "Membership\\Credential.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:34:46.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Item.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ShoppingCart\\Item.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\Item.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ShoppingCart\\Item.cs",
+              "RelativeToolTip": "ShoppingCart\\Item.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:24:20.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "iShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ShoppingCart\\iShoppingCartService.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\iShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ShoppingCart\\iShoppingCartService.cs",
+              "RelativeToolTip": "ShoppingCart\\iShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:21:56.646Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Membership\\User.cs",
+              "RelativeDocumentMoniker": "Membership\\User.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\Membership\\User.cs",
+              "RelativeToolTip": "Membership\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:39:18.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ShoppingCartService.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ShoppingCart\\ShoppingCartService.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\ShoppingCartService.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ShoppingCart\\ShoppingCartService.cs",
+              "RelativeToolTip": "ShoppingCart\\ShoppingCartService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:21:15.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ShoppingCart.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ShoppingCart\\ShoppingCart.cs",
+              "RelativeDocumentMoniker": "ShoppingCart\\ShoppingCart.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ShoppingCart\\ShoppingCart.cs",
+              "RelativeToolTip": "ShoppingCart\\ShoppingCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T10:19:42.158Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAQAAACQZmZmZmYkwBgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:05:29.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T10:09:52.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\CustomerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:45:00.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\OrdersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T06:56:33.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ShoppingCartController.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\ShoppingCartController.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Controllers\\ShoppingCartController.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Controllers\\ShoppingCartController.cs",
+              "RelativeToolTip": "ECommerceWeb\\Controllers\\ShoppingCartController.cs",
+              "ViewState": "AQIAAAAAAAAANDMzMzPbvxMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:12:21.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAgAAADAZmZmZqYowBcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T09:40:58.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Insert.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Insert.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Products\\Insert.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Insert.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Products\\Insert.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:05:58.118Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Products\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Index.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Products\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:29:04.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Models\\Customer.cs",
+              "RelativeToolTip": "ECommerceWeb\\Models\\Customer.cs",
+              "ViewState": "AQIAAAMAAACAZ2ZmZmYEwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:37:47.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "RemovefromCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\ShoppingCart\\RemovefromCart.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\ShoppingCart\\RemovefromCart.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\ShoppingCart\\RemovefromCart.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\ShoppingCart\\RemovefromCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:14:06.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AddtoCart.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\ShoppingCart\\AddtoCart.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\ShoppingCart\\AddtoCart.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\ShoppingCart\\AddtoCart.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\ShoppingCart\\AddtoCart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:13:51.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\ShoppingCart\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\ShoppingCart\\Index.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\ShoppingCart\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:13:29.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "ResetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Auth\\ResetPassword.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Auth\\ResetPassword.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Auth\\ResetPassword.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Auth\\ResetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:09:27.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ForgetPassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Auth\\ForgetPassword.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Auth\\ForgetPassword.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Auth\\ForgetPassword.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Auth\\ForgetPassword.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:09:08.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Auth\\Register.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Auth\\Register.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Auth\\Register.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Auth\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:08:53.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Auth\\Login.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Auth\\Login.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Auth\\Login.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Auth\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:08:24.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Details.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Products\\Details.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Details.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Products\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:06:18.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Products\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Delete.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Products\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:05:40.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Update.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Products\\Update.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Products\\Update.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Products\\Update.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T07:05:02.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Customer\\Index.cshtml",
+              "RelativeDocumentMoniker": "ECommerceWeb\\Views\\Customer\\Index.cshtml",
+              "ToolTip": "C:\\Users\\shriwatsal.patil\\source\\repos\\Ecommerce\\ECommerceWeb\\Views\\Customer\\Index.cshtml",
+              "RelativeToolTip": "ECommerceWeb\\Views\\Customer\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-30T13:08:56.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

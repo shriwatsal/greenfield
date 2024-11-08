@@ -1,0 +1,6 @@
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ShoppingCart\bin\Debug\ShoppingCart.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ShoppingCart\bin\Debug\ShoppingCart.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ShoppingCart\obj\Debug\ShoppingCart.csproj.AssemblyReference.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ShoppingCart\obj\Debug\ShoppingCart.csproj.CoreCompileInputs.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ShoppingCart\obj\Debug\ShoppingCart.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ShoppingCart\obj\Debug\ShoppingCart.pdb

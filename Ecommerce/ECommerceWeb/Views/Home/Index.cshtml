@@ -1,0 +1,25 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<main>
+    <section class="row" aria-labelledby="aspnetTitle">
+        @{
+            string company = "Transflower";
+            <h1 id="title">@company</h1>
+
+            int add(int a, int b)
+            {
+                return a + b;
+            }
+            int res = add(10, 25);
+            <h1 id="title">@res</h1>
+
+        }
+
+        <p class="lead">Online Shopping Portal.</p>
+        <p><a href="https://asp.net" class="btn btn-primary btn-md">Shop more &raquo;</a></p>
+    </section>
+
+    <a href="/Products/Index">ProductList</a>
+</main>

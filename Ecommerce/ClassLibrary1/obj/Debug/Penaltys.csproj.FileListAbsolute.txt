@@ -1,0 +1,9 @@
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\obj\Debug\Penaltys.csproj.AssemblyReference.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\obj\Debug\Penaltys.csproj.CoreCompileInputs.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\obj\Debug\ClassLibrary1.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\bin\Debug\Delegation.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\bin\Debug\Delegation.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\ClassLibrary1\obj\Debug\Penaltys.csproj.Up2Date

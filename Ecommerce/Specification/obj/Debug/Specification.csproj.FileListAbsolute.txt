@@ -1,0 +1,9 @@
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\bin\Debug\Specification.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\bin\Debug\Specification.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\bin\Debug\POCOLib.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\bin\Debug\POCOLib.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\obj\Debug\Specification.csproj.AssemblyReference.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\obj\Debug\Specification.csproj.CoreCompileInputs.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\obj\Debug\Specific.3019C553.Up2Date
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\obj\Debug\Specification.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Specification\obj\Debug\Specification.pdb

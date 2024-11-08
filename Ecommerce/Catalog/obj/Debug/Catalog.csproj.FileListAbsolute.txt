@@ -1,0 +1,11 @@
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\bin\Debug\Catalog.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\bin\Debug\Catalog.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.csproj.AssemblyReference.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.csproj.CoreCompileInputs.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\bin\Debug\CRM.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\bin\Debug\OrderProcessing.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\bin\Debug\CRM.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\bin\Debug\OrderProcessing.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Catalog\obj\Debug\Catalog.csproj.Up2Date

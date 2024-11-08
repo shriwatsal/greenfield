@@ -1,0 +1,6 @@
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Delegation\bin\Debug\Delegation.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Delegation\bin\Debug\Delegation.pdb
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.csproj.AssemblyReference.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.csproj.CoreCompileInputs.cache
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.dll
+C:\Users\shriwatsal.patil\source\repos\Ecommerce\Delegation\obj\Debug\Delegation.pdb
